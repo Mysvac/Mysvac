@@ -1,7 +1,7 @@
 ## Hi there 👋
-- 😄 A normal student.
-- 📫 My email is "mys_vac@hotmail.com".
-- 🌱 I’m currently learning Cpp (QT), and do some simple projects to improve myself.
+- 🤔 不知道该写点什么。
+- 📫 邮箱： "mys_vac@hotmail.com" 。
+- 🌱 个人博客："https://mythovac.com/" 。
 <!--
 **Mysvac/Mysvac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
