@@ -1,18 +1,19 @@
-## Hi there 👋
-- 🤔 不知道该写点什么。
-- 📫 邮箱： "mys_vac@hotmail.com" 。
-- 🌱 个人博客："https://mythovac.com/" 。
-<!--
-**Mysvac/Mysvac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="title" align=center>
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mysvac&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![博客](https://img.shields.io/badge/个人-博客-EE82EE)](https://mythovac.com/) 
+[![邮箱](https://img.shields.io/badge/个人-邮箱-008080)](mys_vac@hotmail.com) 
+[![编程](https://img.shields.io/badge/Code-C++-32CD32)](https://mythovac.com/)
+
+![爱好](https://img.shields.io/badge/爱好-二次元-yellow)
+![讨厌](https://img.shields.io/badge/讨厌-英语-blue)
+![图形学](https://img.shields.io/badge/学习-Vulkan-red)
+![缺少](https://img.shields.io/badge/缺少-时间-white)
+
+<!-- ![图谱](images/图谱.png) -->
+
+</div>
+
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Mysvac
+
