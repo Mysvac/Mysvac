@@ -1,8 +1,8 @@
+<div id="title" align=center>
+
 ![](https://readme-typing-svg.herokuapp.com?font=Segoe+Script&pause=1000&color=FF75F5B0&center=true&lines=Mysvac's+Dream)
 
 ---
-
-<div id="title" align=center>
 
 <br>
 
