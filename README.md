@@ -4,7 +4,7 @@
 
 [![博客](https://img.shields.io/badge/个人-博客-EE82EE)](https://mythovac.com/) 
 [![邮箱](https://img.shields.io/badge/个人-邮箱-008080)](mailto:mys_vac@hotmail.com) 
-[![编程](https://img.shields.io/badge/Code-C++-32CD32)](https://mythovac.com/)
+[![编程](https://img.shields.io/badge/Code-C++-32CD32)](https://en.cppreference.com/w/)
 
 ![爱好](https://img.shields.io/badge/爱好-二次元-yellow)
 ![讨厌](https://img.shields.io/badge/讨厌-英语-blue)
@@ -13,7 +13,10 @@
 
 <!-- ![图谱](images/图谱.png) -->
 
+---
+
+![image](images/anima2.gif)
+
 </div>
 
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Mysvac
 
