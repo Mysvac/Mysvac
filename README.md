@@ -29,14 +29,6 @@
 ![Java](https://img.shields.io/badge/Java-B57272)
 ![JS](https://img.shields.io/badge/JS-F0F020)
 
-![前端](https://img.shields.io/badge/前端-尚可-A0A0A0)
-![后端](https://img.shields.io/badge/后端-尚可-A0A0A0)
-![测试](https://img.shields.io/badge/测试-尚可-A0A0A0)
-
-![图形](https://img.shields.io/badge/图形-基础-A0A0A0)
-![AI](https://img.shields.io/badge/AI-基础-A0A0A0)
-![嵌入式](https://img.shields.io/badge/嵌入式-基础-A0A0A0)
-
 </td>
 </tr>
 </table>
